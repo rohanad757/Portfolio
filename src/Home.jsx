@@ -68,11 +68,11 @@ function Home() {
         </div>
         <div className="flex-1 flex justify-center md:justify-end animate-fade-in">
           <div className="relative max-w-full">
-            <img
-              src="../public/Rohan.jpg"
-              alt="Rohan Doddabasannavar"
-              className="w-64 h-64 md:w-72 md:h-72 lg:w-80 lg:h-80 rounded-full object-cover shadow-2xl ring-4 ring-indigo-400/50 hover:scale-105 transition duration-300 animate-pulse max-w-full"
-            />
+<img
+  src="/Rohan.jpg"
+  alt="Rohan Doddabasannavar"
+  className="w-64 h-64 md:w-72 md:h-72 lg:w-80 lg:h-80 rounded-full object-cover shadow-2xl ring-4 ring-indigo-400/50 hover:scale-105 transition duration-300 animate-pulse max-w-full"
+/>
             <div className="absolute inset-0 rounded-full bg-indigo-500/10 blur-2xl z-0"></div>
           </div>
         </div>
