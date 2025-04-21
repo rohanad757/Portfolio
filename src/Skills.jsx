@@ -3,9 +3,9 @@ import React from 'react';
 function Skills() {
   const skills = {
     Languages: ['C++', 'JavaScript', 'TypeScript'],
-    Frontend: ['React.js', 'Next.js', 'Tailwind CSS'],
-    Backend: ['Node.js', 'Express.js', 'MongoDB'],
-    Blockchain: ['Solidity', 'Web3.js', 'Ethers.js', 'Solana', 'dApp Development'],
+    Frontend: ['HTML5, CSS3, JavaScript (ES6+)','React.js', 'Next.js','Redux Toolkit','Tailwind CSS'],
+    Backend: ['Node.js', 'Express.js', 'MongoDB' , 'WebSockets / Socket.io', 'JWT / OAuth'],
+    Blockchain: ['Solidity', 'Hardhat' , 'OpenZeppelin', 'Ethers.js / Web3.js' , 'Reentrancy'],
   };
 
   return (
